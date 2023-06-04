@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.38f99dc8.css",
-    "main.js": "/static/js/main.6a4663b5.js",
-    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
-    "static/media/gayan.jpg": "/static/media/gayan.0cd9db6e04a8b4ee2023.jpg",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo_sub.png": "/static/media/logo_sub.19f3ab25ab15fd848b30.png",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/g-logo.png": "/static/media/g-logo.990e9682f2de56d356a0.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.38f99dc8.css.map": "/static/css/main.38f99dc8.css.map",
-    "main.6a4663b5.js.map": "/static/js/main.6a4663b5.js.map",
-    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/Gayan21/porfolio_Gayan/static/css/main.92c1c0ab.css",
+    "main.js": "/Gayan21/porfolio_Gayan/static/js/main.d2d85704.js",
+    "static/js/787.a2cb61a6.chunk.js": "/Gayan21/porfolio_Gayan/static/js/787.a2cb61a6.chunk.js",
+    "static/media/gayan.jpg": "/Gayan21/porfolio_Gayan/static/media/gayan.0cd9db6e04a8b4ee2023.jpg",
+    "static/media/helvetica-neu.ttf": "/Gayan21/porfolio_Gayan/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/Gayan21/porfolio_Gayan/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/Gayan21/porfolio_Gayan/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/g-logo.png": "/Gayan21/porfolio_Gayan/static/media/g-logo.990e9682f2de56d356a0.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/Gayan21/porfolio_Gayan/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/logo.svg": "/Gayan21/porfolio_Gayan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Gayan21/porfolio_Gayan/index.html",
+    "main.92c1c0ab.css.map": "/Gayan21/porfolio_Gayan/static/css/main.92c1c0ab.css.map",
+    "main.d2d85704.js.map": "/Gayan21/porfolio_Gayan/static/js/main.d2d85704.js.map",
+    "787.a2cb61a6.chunk.js.map": "/Gayan21/porfolio_Gayan/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38f99dc8.css",
-    "static/js/main.6a4663b5.js"
+    "static/css/main.92c1c0ab.css",
+    "static/js/main.d2d85704.js"
   ]
 }
